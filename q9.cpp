@@ -1,6 +1,4 @@
 #include <iostream>
-#include <unordered_set>
-#include <vector>
 using namespace std;
 
 int countPairsWithDiffK(vector<int>& arr, int k) {
@@ -31,3 +29,4 @@ int main() {
 
     return 0;
 }
+
